@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deabe253-f29e-4ed0-a96c-bf3094e2b9e0" name="Changes" comment="" />
+    <list default="true" id="deabe253-f29e-4ed0-a96c-bf3094e2b9e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakeGame.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGame.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +52,20 @@
       <recent name="C:\Users\capma\Documents\101\First Project\ProjetNoel22\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="SnakeGame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeGame" />
+      <module name="ProjetNoel22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SnakeGame" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,8 +82,26 @@
       <option name="project" value="LOCAL" />
       <updated>1673877803902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1673954065607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673954065607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
