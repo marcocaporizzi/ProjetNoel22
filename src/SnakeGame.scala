@@ -85,7 +85,10 @@ object SnakeGame extends App {
 
       // Check if the player just ate the food
       if (snakeParts(0) == foodPosition) {
-        foodPosition = getRandomPositionInBoard()
+        do {
+          foodPosition = getRandomPositionInBoard()
+        }
+        while(snakeParts.contains(foodPosition))
 
         // Grow the snake by adding a new part at its end, only if it's not at max length
         if (snakeLength < snakeMaxLength) {
