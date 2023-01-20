@@ -6,7 +6,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$$anon$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetNoel22/SnakeGame$delayedInit$body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SnakeGame.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGame.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673954065607</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Functionning game">
+      <created>1674052245340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674052245340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +112,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Functionning game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functionning game" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/SnakeGame.scala</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
